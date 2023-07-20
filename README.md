@@ -5,7 +5,7 @@ Created the Nodes and relationships in Aura DB as below
 
 ![Capture2](https://github.com/avijeetd/neo4j/assets/3703774/136221f9-17c7-4430-92c8-1a78520e0a85)
 
-For the relationships created the CSV Files using SQL Workbench by creating Views based on Customer, Purchases and Transfer Tables.
+For the relationships created the CSV Files using SQL Workbench by creating Views based on foreign Keys in Customer, Purchases and Transfer Tables.
 
 Create view customer_purchases as 
 select a.cif, a.cardnumber, b.transactionid from ad_customers a, ad_purchases b
