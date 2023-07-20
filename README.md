@@ -92,6 +92,9 @@ The Nodes (customer- 100, Purchases - 10000, Transfers - 1000) and Relationships
 
 Beautiful Explore options
 ![Capture](https://github.com/avijeetd/neo4j/assets/3703774/3c188a08-2ef1-4192-9631-d70869b42c7e)
+
+![Capture3](https://github.com/avijeetd/neo4j/assets/3703774/a30f77b5-47e0-49c4-b72c-ecdf8faeb10d)
+
 ![Capture1](https://github.com/avijeetd/neo4j/assets/3703774/1b12e289-4888-40a5-aec8-8112b29d4779)
 
 Queries - I ran a few Queries below
