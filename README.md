@@ -2,7 +2,8 @@
 
 Created the Nodes and relationships in Aura DB as below
 
-![WhatsApp Image 2023-07-20 at 12 32 52 PM](https://github.com/avijeetd/neo4j/assets/3703774/1416b9db-a590-463e-8f2f-34541c26f82f)
+
+![Capture2](https://github.com/avijeetd/neo4j/assets/3703774/136221f9-17c7-4430-92c8-1a78520e0a85)
 
 For the relationships created the CSV Files using SQL Workbench by creating Views based on Customer, Purchases and Transfer Tables.
 
