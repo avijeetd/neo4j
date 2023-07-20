@@ -7,6 +7,8 @@ Created the Nodes and relationships in Aura DB as below
 
 For the relationships created the CSV Files using SQL Workbench by creating Views based on foreign Keys in Customer, Purchases and Transfer Tables.
 
+View creation SQLs
+
 Create view customer_purchases as 
 select a.cif, a.cardnumber, b.transactionid from ad_customers a, ad_purchases b
 where a.cardnumber = b.cardnumber;
